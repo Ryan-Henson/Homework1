@@ -75,7 +75,7 @@ main {
     margin-left: 20px;
 }
 
-.search-online-social {
+.main-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -84,11 +84,11 @@ main {
     color: #ffffff;
 }
 
-.search-online-social img {
+.main-content img {
     max-height: 200px;
 }
 
-.search-online-social h2 {
+.main-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
